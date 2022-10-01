@@ -32,3 +32,9 @@ brew cask install spectacle
 brew cask install firefox
 
 # install nvm/node
+auto install ext 
+cd folder>text file list
+  - run :while read line; do code --install-extension "$line";done < vscode-extension.txt
+
+create code command run code with folder specific
+  - command + shift + p --> install --> choose install 'code' command in PATH
