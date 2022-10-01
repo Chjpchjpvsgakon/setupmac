@@ -1,4 +1,4 @@
-## ROADMAP
+# ROADMAP
 
 Homebrew / terminal/bash
 Window Management : Spectacle
@@ -8,6 +8,16 @@ Nodejs nvm
 Code Edittor - Vs code
 Code Editor Extensions
 Break,Flux
+
+Hotkey
+- command + , ===>preferences chinhs app do
+- search app : command + space
+- emoji icon : Command + Control + Spacebar
+- 
+## config iterm
+- sudo vi .bashrc
+- view set name - icon - color 
+- source .bashrc (run change in file)
 
 
 # Command 
@@ -21,4 +31,4 @@ brew install git
 brew cask install spectacle
 brew cask install firefox
 
-#install nvm/node
+# install nvm/node
